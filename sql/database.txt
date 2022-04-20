@@ -1,0 +1,3 @@
+DB_DATABASE=u107644250_galaxydigipay
+DB_USERNAME=u107644250_galaxydigipay
+DB_PASSWORD=SoEL@[F|0^
